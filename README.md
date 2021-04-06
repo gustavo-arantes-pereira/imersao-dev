@@ -1,4 +1,4 @@
-# Imersao Dev
+# Imersão Dev
 <br>
 <br>
 - 7 projetos voltados principalmente a linguagem JavaScript e também mexendo com HTML e CSS.
