@@ -1,0 +1,41 @@
+body {
+    font-family: 'Roboto Mono',monospace;
+    min-height: 854px;
+    background-image: url('http://images4.fanpop.com/image/photos/23100000/Squirtle-pokemon-23159750-790-534.jpg');
+    background-color: #000000;
+    background-size: 100%;
+    background-position: center top;
+    background-repeat: no-repeat;
+  }
+  
+  .container {
+    text-align: center;
+    padding: 20px;
+    height: 100vh;
+  }
+  
+  .page-logo {
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    width: 200px;
+  }
+  
+  h2 {
+    position: absolute;
+    font-size:16px;
+    font-weight:bold;
+    top: 10px;
+    left: calc(50% - 150px);
+    width: 500px;
+    text-align:center;
+    background-color: #fff;
+    border-radius: 15px;
+  }
+  
+  .alura-logo {
+    width: 40px;
+    position: absolute;
+    top: 10px;
+    right:10px;
+  }
