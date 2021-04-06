@@ -1,4 +1,4 @@
 # Conversor de moedas 
-# (que virou "Conversor de anos luz em quiilômetros")
+# (que virou "Conversor de anos luz para quilômetros")
 <br>
 <img src="apresentacao.jpg">
